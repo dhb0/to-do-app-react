@@ -59,3 +59,13 @@ span{
   float:right;
   cursor:pointer;
 }
+
+#top-items{
+  display: flex;
+  align-items: center;
+  justify-content:space-around
+}
+
+i{
+  padding:3px;
+}
